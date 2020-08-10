@@ -112,8 +112,8 @@ def main():
     <div>
     """
     st.sidebar.header("About This Site")
-    st.sidebar.info("""In our site we help user to find Hollywood Movie simialr to user favourite Movie.  
-    we can done Movie Prediction by calculating Cosine-similarity and semantic-analysis.
+    st.sidebar.info("""In our site we help user to find Hollywood Movie similar to user favourite Movie.  
+    we can do Movie Prediction by calculating Cosine-similarity and semantic-analysis.
     """)
     st.sidebar.markdown(De_Dv,unsafe_allow_html=True)
 
@@ -153,7 +153,7 @@ def main():
     <style>
         .movi {
             font-family:'Lobster', cursive;
-            text-align:left;    
+            text-align:left;   
         }
     </style>
     <div class="movi">
