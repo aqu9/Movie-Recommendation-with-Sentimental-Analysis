@@ -4,12 +4,11 @@ Content Based Recommender System recommends movies similar to the movie user lik
 See Project Live at: https://hollywood-movie-finder.herokuapp.com/
 
 # Requirements For This Project
-   **Modules**         **version**
-   python                3.8
-   pandas                1.0.3
-   numpy
-   scilit-learn          0.22.1
-   streamlit             0.64.0
+1. python(3.8)
+2. pandas(1.0.3)
+3. numpy
+4. scilit-learn(0.22.1)
+5. streamlit(0.64.0)
 
 # To Run this Project
 1. Insatll all the Requirements
