@@ -15,6 +15,15 @@ See Project Live at: https://hollywood-movie-finder.herokuapp.com/
 2. Take a copy of this Repository In your  Terminal
 3. Run this Command on your Terminal/cmd **streamlit run HollyWood_Movie_Finder.py4
 
+# OUTPUT
+![Screenshot from 2020-08-23 21-07-00](https://user-images.githubusercontent.com/67313757/90982859-ce237f80-e587-11ea-9b2e-850106ab61c4.png)
+
+
+![Screenshot from 2020-08-23 21-07-26](https://user-images.githubusercontent.com/67313757/90982870-dbd90500-e587-11ea-85a4-956e26ec6301.png)
+
+
+![Screenshot from 2020-08-23 21-07-35](https://user-images.githubusercontent.com/67313757/90982878-e4314000-e587-11ea-82e0-c42051f4eee3.png)
+
 
 
 
