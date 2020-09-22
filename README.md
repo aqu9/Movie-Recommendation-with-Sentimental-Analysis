@@ -13,7 +13,7 @@ See Project Live at: https://hollywood-movie-finder.herokuapp.com/
 # To Run this Project
 1. Insatll all the Requirements
 2. Take a copy of this Repository In your  Terminal
-3. Run this Command on your Terminal/cmd **streamlit run HollyWood_Movie_Finder.py4
+3. Run this Command on your Terminal/cmd **streamlit run HollyWood_Movie_Finder.py
 
 # OUTPUT
 
