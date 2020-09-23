@@ -1,6 +1,6 @@
 body {
   background-color: red;
-  background-image: url(WhatsApp\ Image\ 2020-08-09\ at\ 5.17.33\ PM.jpeg)
+  background-image: linear-gradient(to left,#d9afd9 0%, #97d9e1 100%);
 }
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
@@ -237,7 +237,7 @@ border-radius: 50px;
 outline: none;
 font-size: 12px;
 color: black;
-text-transform: uppercase;
+text-transform: lowercase;
 font-weight: bold;
 }
 
@@ -355,7 +355,7 @@ border-radius: 50px;
 outline: none;
 font-size: 12px;
 color: black;
-text-transform: uppercase;
+text-transform: lowercase;
 font-weight: bold;
 }
 
